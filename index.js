@@ -1,5 +1,5 @@
 
-function printVerse(num){
+var printVerse = function(num){
 	
 	var name = 'bottles';
 	if(num === 1) { name = "bottle";}
